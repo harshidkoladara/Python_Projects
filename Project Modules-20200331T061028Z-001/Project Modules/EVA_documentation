@@ -1,0 +1,12 @@
+-pyttsx3 -> it is a text-to-speech conversion library in python that works with python 3 and also works offline
+-speech_recognition -> it is the library that helps to convert to spoken words to text so that the program can be given verbal commands
+-time -> to get the local time of the system that we are currently running the python script on
+-os -> provides a way of using the operating system dependant functionality
+-sys -> provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter
+-gtts -> provides the ability to convert the given text to speech and said through the speaker of the system currently running the python script
+-datetime -> provides classes to work with date and time
+
+==============================FUNCTIONS======================================
+-greet_user() -> greets the user on the basis of the current system time using the datetime library
+-speak(audioString) -> used to make the system say whatever is stored in the audioString
+-

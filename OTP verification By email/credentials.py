@@ -1,0 +1,2 @@
+EMAIL = '----Email----'
+PASSWORD = '----Password----'
