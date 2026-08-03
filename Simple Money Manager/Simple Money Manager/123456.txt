@@ -1,0 +1,13 @@
+123456
+7890
+984.0
+Deposit
+10.0
+Rent
+10.0
+Rent
+100.0
+Entertainment
+12.0
+Entertainment
+12.0

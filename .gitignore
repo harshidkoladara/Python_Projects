@@ -1,0 +1,21 @@
+# Python caches and compilation files
+__pycache__/
+*.pyc
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Huge datasets and files to avoid pushing to Git
+**/EXCV10/
+**/Tomato Diseases Dataset(Augmented)-20211125T040153Z-001/
+**/september2018.csv

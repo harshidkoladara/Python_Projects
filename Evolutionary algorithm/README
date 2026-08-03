@@ -1,0 +1,9 @@
+# ECMM409
+
+## Table of Contents
+- [Installation](#installation)
+
+## Installation
+
+pip install -r requirements.txt
+python evolutionary_algorithm.py

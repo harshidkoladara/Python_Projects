@@ -1,0 +1,15 @@
+Refrigerator
+Electric
+2
+Shoes
+Fasion
+7
+Sugar
+Food
+78
+Televison
+Electric
+98
+soap
+Daily Care
+42
